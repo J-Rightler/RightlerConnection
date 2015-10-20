@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RightlerConnection.ServiceInterface")]
+[assembly: AssemblyTitle("RightlerConnection.API.Repository")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RightlerConnection.ServiceInterface")]
-[assembly: AssemblyCopyright("Copyright © 2014")]
+[assembly: AssemblyCompany("Toshiba")]
+[assembly: AssemblyProduct("RightlerConnection.API.Repository")]
+[assembly: AssemblyCopyright("Copyright © Toshiba 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3fcd6bf9-a22d-4aa6-acc1-8adf278ce7c1")]
+[assembly: Guid("9fd3f29e-0588-41c7-8425-bbe5f1d09aac")]
 
 // Version information for an assembly consists of the following four values:
 //
