@@ -82,9 +82,9 @@
       <Project>{582dfb0f-f84d-4e43-9bca-2a5a86600b7a}</Project>
       <Name>RightlerConnection.API.ServiceDefinition</Name>
     </ProjectReference>
-    <ProjectReference Include="..\RightlerConnection.ServiceModel\RightlerConnection.API.Model.csproj">
+    <ProjectReference Include="..\RightlerConnection.ServiceModel\RightlerConnection.API.ServiceModel.csproj">
       <Project>{08bef328-ab7d-48d3-800d-48acc75c7914}</Project>
-      <Name>RightlerConnection.API.Model</Name>
+      <Name>RightlerConnection.API.ServiceModel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

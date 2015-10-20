@@ -80,9 +80,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RightlerConnection.ServiceModel\RightlerConnection.API.Model.csproj">
+    <ProjectReference Include="..\RightlerConnection.ServiceModel\RightlerConnection.API.ServiceModel.csproj">
       <Project>{08bef328-ab7d-48d3-800d-48acc75c7914}</Project>
-      <Name>RightlerConnection.API.Model</Name>
+      <Name>RightlerConnection.API.ServiceModel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

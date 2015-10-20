@@ -54,6 +54,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calendar.cs" />
+    <Compile Include="CalendarResponse.cs" />
     <Compile Include="Hello.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

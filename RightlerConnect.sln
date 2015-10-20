@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightlerConnection", "RightlerConnection\RightlerConnection\RightlerConnection.csproj", "{53024FE0-18F4-445D-9A64-8B4C14C9E97C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightlerConnection.API.Model", "RightlerConnection\RightlerConnection.ServiceModel\RightlerConnection.API.Model.csproj", "{08BEF328-AB7D-48D3-800D-48ACC75C7914}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightlerConnection.API.ServiceModel", "RightlerConnection\RightlerConnection.ServiceModel\RightlerConnection.API.ServiceModel.csproj", "{08BEF328-AB7D-48D3-800D-48ACC75C7914}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RightlerConnection.API.ServiceDefinition", "RightlerConnection\RightlerConnection.ServiceInterface\RightlerConnection.API.ServiceDefinition.csproj", "{582DFB0F-F84D-4E43-9BCA-2A5A86600B7A}"
 EndProject
